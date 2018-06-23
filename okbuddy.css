@@ -84,7 +84,7 @@ height:200px;
 overflow:auto;
 }
 
-body {background: url("http://wallpapercave.com/wp/Si3nMUM.jpg") fixed;background-repeat: no-repeat;background-size: cover;color: #000;}
+body {background: url("https://78.media.tumblr.com/cb2ce48dafe3ebee0a8142648e330799/tumblr_os9ssxZqLK1qk9nv0o4_500.png") fixed;background-repeat: repeat;background-size: cover;color: #000;}
 
 .welcomeback, .white, .bottomlinks li a:hover, .bottomlinks li a {
 color: #000;
@@ -192,7 +192,7 @@ border: 1px solid #000;
 .chat_light, .chat_dark {
 background: rgba(223, 21, 33, 0.21);
 font-size: 11px;
-color: #000;
+color: #d2faf1;
 }
 
 .chatContainer {
